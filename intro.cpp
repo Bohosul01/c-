@@ -25,8 +25,8 @@ int main(){
 }
 
 void mostrar_datos(int edad, char sexo[10], float altura){
-	mostrar_sexo(sexo);
 	mostar_edad(edad);
+	mostrar_sexo(sexo);
 	mostrar_altura(altura);
 }
 
